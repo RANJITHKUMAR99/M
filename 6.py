@@ -1,2 +1,2 @@
-a=input().split()
-print(max(a))
+z=input().split()
+print(max(z))
